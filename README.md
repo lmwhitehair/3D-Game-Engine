@@ -3,6 +3,6 @@ I am editing this code that was initialling posted here:https://www.instructable
 
 Current features: Ability to run around the map using WASD.
 
-Future features: Ability to jump, sprint, and crouch. Fullscreen mode, and constant spawning monsters to fight.
+Future features: Ability to jump, sprint, and crouch. Fullscreen mode, and constantly spawning monsters to fight.
 
 Current bugs: Textures arent implementing
